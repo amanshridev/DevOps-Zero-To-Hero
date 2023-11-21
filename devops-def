@@ -1,0 +1,22 @@
+What is DevOps?
+DevOps is a set of practices that help a organization by reducing the delivery time while maintaining each aspect of an Application i.e Automation, Code Quality, Monitoring and Testing of the Application.
+
+
+In traditional software development, there is no communication between the development and operations teams, which cause inefficiencies, irregular development cycles, and deployment issues. DevOps work as a bridge to this gap by advocating for collaboration, automation, continuous integration, continuous delivery/deployment (CI/CD).
+
+Key features of DevOps:
+Automation: Employing tools and scripts to automate repetitive tasks like building, testing, and deployment, reducing errors and accelerating the development process.
+
+Collaboration: Encouraging closer collaboration and communication between development, operations, and other stakeholders involved in the software development lifecycle.
+
+Continuous Integration (CI): Merging code changes into a shared repository frequently, verifying each integration through automated testing to detect issues early.
+
+Continuous Deployment/Delivery (CD): Automatically deploying code to production or making it available for deployment after passing automated tests in a continuous manner.
+
+Infrastructure as Code (IaC): Managing and provisioning infrastructure using code and automation tools to ensure consistency and scalability.
+
+Monitoring and Feedback: Implementing monitoring tools to track performance, detect issues, and gather feedback, enabling continuous improvement.
+
+By embracing DevOps practices, organizations can achieve faster delivery of software updates, higher quality products, increased efficiency, and better alignment between development and operational goals.
+
+Thank you for being a part of our community!
