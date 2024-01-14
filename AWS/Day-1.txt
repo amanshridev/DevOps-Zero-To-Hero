@@ -1,0 +1,9 @@
+IAM: Identity Access Management(IAM) it is use for allowing what a user can perform task on the AWS. it Has users, Policies, and Groups to performs tasks on the AWS.
+
+a) USER: A person or an employee who can perform certain tasks on aws like adding some data or deleting the data.
+
+b) POLICIES: A policies is the term that we assign to a user on how much action can he perform. EX: if we assign a person that he can only add something but can not delete any thing this will be inside polices.
+
+c) GROUPS: We create groups for making time efficient. Suppose we have new users coming a leaving it will be much hassle to create polices for user every time a new user joined to remove that issue we create groups and assigned policies to group and add user to that group every time a user joing. Ex: we have group name Developer if a developer joined we can add that user to the group and all the assigned polices will be applied to the user.
+
+d) ROLE: Role is more like user but it is different from user. Role is used for connecting different AWS account.
