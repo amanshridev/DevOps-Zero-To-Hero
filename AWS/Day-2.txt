@@ -1,0 +1,12 @@
+EC2(Elastic Cloud Compute): When we accessing this on AWS that means we are asking AWS to give us a virtual environment
+or virtual server to use. 
+
+Why EC2?
+To reduce the Management and Cost for server or machine.
+
+Types:
+    1) General Purpose : With common resources
+    2) Compute Optimized : With High Computing power
+    3) Memory Optimized : With High Memory power
+    4) Storage : With High Storage
+    5) Accelerated Computing : With Faster running 
